@@ -1,0 +1,6 @@
+framework module Pods_abdullah {
+  umbrella header "Pods-abdullah-umbrella.h"
+
+  export *
+  module * { export * }
+}
